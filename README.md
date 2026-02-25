@@ -1,5 +1,4 @@
-
-            SNAKE GAME (SDL2)
+Snake Game (Graphical Version using SDL2)
 
 Description:
 ------------
