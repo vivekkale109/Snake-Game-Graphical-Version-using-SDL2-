@@ -2,8 +2,7 @@ Snake Game (Graphical Version using SDL2)
 
 Description:
 ------------
-This is a graphical Snake Game developed in C language
-using the SDL2 library. It runs in a windowed graphical
+This is a graphical Snake Game developed in C language using the SDL2 library. It runs in a windowed graphical
 interface instead of the terminal.
 
 ----------------------------------------
